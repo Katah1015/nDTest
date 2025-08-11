@@ -5,8 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/RestaurantScene/Maps/nDisplayConfig.uasset",
 				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/RestaurantScene/Maps/Showcase.umap",
-				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/RestaurantScene/Maps/nDisplayConfig.uasset"
+				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/RestaurantScene/Maps/Showcase_BuiltData.uasset",
+				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/RestaurantScene/Maps/Simple_nDisplayConfig1.uasset",
+				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/LiveLinkPreset_mons250811.uasset",
+				"C:/Users/Monstera/Documents/Unreal Projects/nDTest/Content/LiveLinkPreset_mons250812.uasset"
 			]
 		}
 	]
